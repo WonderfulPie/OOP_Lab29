@@ -1,0 +1,10 @@
+D:\Coding\Visual Studio\VS projects\UdpChat\bin\Debug\UdpChat.exe.config
+D:\Coding\Visual Studio\VS projects\UdpChat\bin\Debug\UdpChat.exe
+D:\Coding\Visual Studio\VS projects\UdpChat\bin\Debug\UdpChat.pdb
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.csproj.AssemblyReference.cache
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.Properties.Resources.resources
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.csproj.GenerateResource.cache
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.csproj.CoreCompileInputs.cache
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.exe
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.pdb
+D:\Coding\Visual Studio\VS projects\UdpChat\obj\Debug\UdpChat.Form1.resources
